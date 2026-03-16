@@ -3,6 +3,10 @@ venv/
 env/
 ENV/
 
+# Model files (too large for GitHub)
+model/model.safetensors
+model/*.safetensors
+
 # Python
 __pycache__/
 *.pyc
